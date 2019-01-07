@@ -1,6 +1,6 @@
 ## restify-upload-file
 
-a plugin for uploda image file
+a plugin for upload image file
 
 ### Install
 
