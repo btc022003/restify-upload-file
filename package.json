@@ -13,6 +13,10 @@
   ],
   "author": "Arivin",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/btc022003/restify-upload-file.git"
+  },
   "dependencies": {
     "moment": "^2.23.0"
   }
