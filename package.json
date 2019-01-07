@@ -1,0 +1,19 @@
+{
+  "name": "restify-upload-file",
+  "version": "1.0.0",
+  "description": "upload file with restify",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "restify",
+    "upload",
+    "file"
+  ],
+  "author": "Arivin",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.23.0"
+  }
+}
