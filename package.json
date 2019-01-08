@@ -1,6 +1,6 @@
 {
   "name": "restify-upload-file",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "upload file with restify",
   "main": "./lib/index.js",
   "scripts": {

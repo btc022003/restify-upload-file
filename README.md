@@ -41,7 +41,7 @@ app.post('/common/upload', fileUpload(), (req, res, next) => {
 
 #### client
 
-Vue with axios
+Vue with axios. **Set form file name with "file"**
 
 ```vue
 <template>
